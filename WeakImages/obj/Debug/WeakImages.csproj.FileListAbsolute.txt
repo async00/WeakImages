@@ -1,0 +1,10 @@
+C:\Users\stati\source\repos\WeakImages\WeakImages\bin\Debug\WeakImages.exe.config
+C:\Users\stati\source\repos\WeakImages\WeakImages\bin\Debug\WeakImages.exe
+C:\Users\stati\source\repos\WeakImages\WeakImages\bin\Debug\WeakImages.pdb
+C:\Users\stati\source\repos\WeakImages\WeakImages\obj\Debug\WeakImages.csproj.AssemblyReference.cache
+C:\Users\stati\source\repos\WeakImages\WeakImages\obj\Debug\WeakImages.Form1.resources
+C:\Users\stati\source\repos\WeakImages\WeakImages\obj\Debug\WeakImages.Properties.Resources.resources
+C:\Users\stati\source\repos\WeakImages\WeakImages\obj\Debug\WeakImages.csproj.GenerateResource.cache
+C:\Users\stati\source\repos\WeakImages\WeakImages\obj\Debug\WeakImages.csproj.CoreCompileInputs.cache
+C:\Users\stati\source\repos\WeakImages\WeakImages\obj\Debug\WeakImages.exe
+C:\Users\stati\source\repos\WeakImages\WeakImages\obj\Debug\WeakImages.pdb

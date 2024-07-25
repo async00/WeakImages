@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stati\\source\\repos\\WeakImages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600A4FA0-F019-4400-AA11-2B16867E2CC6}|WeakImages\\WeakImages.csproj|c:\\users\\stati\\source\\repos\\weakimages\\weakimages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A4FA0-F019-4400-AA11-2B16867E2CC6}|WeakImages\\WeakImages.csproj|solutionrelative:weakimages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A4FA0-F019-4400-AA11-2B16867E2CC6}|WeakImages\\WeakImages.csproj|C:\\Users\\stati\\source\\repos\\WeakImages\\weakimages\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A4FA0-F019-4400-AA11-2B16867E2CC6}|WeakImages\\WeakImages.csproj|solutionrelative:weakimages\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A4FA0-F019-4400-AA11-2B16867E2CC6}|WeakImages\\WeakImages.csproj|C:\\Users\\stati\\source\\repos\\WeakImages\\weakimages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600A4FA0-F019-4400-AA11-2B16867E2CC6}|WeakImages\\WeakImages.csproj|solutionrelative:weakimages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A4FA0-F019-4400-AA11-2B16867E2CC6}|WeakImages\\WeakImages.csproj|C:\\Users\\stati\\source\\repos\\WeakImages\\weakimages\\logsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A4FA0-F019-4400-AA11-2B16867E2CC6}|WeakImages\\WeakImages.csproj|solutionrelative:weakimages\\logsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\stati\\source\\repos\\WeakImages\\WeakImages\\Form1.cs",
+              "RelativeDocumentMoniker": "WeakImages\\Form1.cs",
+              "ToolTip": "C:\\Users\\stati\\source\\repos\\WeakImages\\WeakImages\\Form1.cs",
+              "RelativeToolTip": "WeakImages\\Form1.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADwv2wAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:18:08.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogSys.cs",
+              "DocumentMoniker": "C:\\Users\\stati\\source\\repos\\WeakImages\\WeakImages\\LogSys.cs",
+              "RelativeDocumentMoniker": "WeakImages\\LogSys.cs",
+              "ToolTip": "C:\\Users\\stati\\source\\repos\\WeakImages\\WeakImages\\LogSys.cs",
+              "RelativeToolTip": "WeakImages\\LogSys.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:16:02.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\stati\\source\\repos\\WeakImages\\WeakImages\\ImageProcessor.cs",
+              "RelativeDocumentMoniker": "WeakImages\\ImageProcessor.cs",
+              "ToolTip": "C:\\Users\\stati\\source\\repos\\WeakImages\\WeakImages\\ImageProcessor.cs",
+              "RelativeToolTip": "WeakImages\\ImageProcessor.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwCAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:14:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\stati\\source\\repos\\WeakImages\\WeakImages\\Form1.cs",
+              "RelativeDocumentMoniker": "WeakImages\\Form1.cs",
+              "ToolTip": "C:\\Users\\stati\\source\\repos\\WeakImages\\WeakImages\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WeakImages\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:06:40.266Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
